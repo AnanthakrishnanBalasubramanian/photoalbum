@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A beautiful gallery of positive vocabulary infographics - words that inspire, motivate, and uplift.">
+    <meta name="keywords" content="positive vocabulary, positive words, motivation, inspiration, infographics">
+    <title>Positive Vocabulary Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="header-content">
+            <div class="logo">
+                <span class="logo-icon">✨</span>
+                <h1>Positive Vocabulary</h1>
+            </div>
+            <div class="header-controls">
+                <div class="search-container">
+                    <input type="text" id="searchInput" placeholder="Search words..." aria-label="Search vocabulary words">
+                    <span class="search-icon">🔍</span>
+                </div>
+                <button id="slideshowBtn" class="btn btn-primary" aria-label="Start slideshow">
+                    <span class="btn-icon">▶</span>
+                    <span class="btn-text">Slideshow</span>
+                </button>
+                <button id="shuffleBtn" class="btn btn-secondary" aria-label="Shuffle gallery">
+                    <span class="btn-icon">🔀</span>
+                    <span class="btn-text">Shuffle</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Stats Bar -->
+    <div class="stats-bar">
+        <div class="stats-content">
+            <div class="stat-item">
+                <span class="stat-value" id="totalCount">0</span>
+                <span class="stat-label">Total Items</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="imageCount">0</span>
+                <span class="stat-label">Images</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="videoCount">0</span>
+                <span class="stat-label">Videos</span>
+            </div>
+            <div class="stat-item">
+                <span class="stat-value" id="visibleCount">0</span>
+                <span class="stat-label">Showing</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Gallery -->
+    <main class="gallery-container">
+        <div id="gallery" class="gallery-grid">
+            <!-- Gallery items will be dynamically inserted here -->
+        </div>
+        
+        <!-- Loading State -->
+        <div id="loadingState" class="loading-state">
+            <div class="loader"></div>
+            <p>Loading gallery...</p>
+        </div>
+
+        <!-- Empty State -->
+        <div id="emptyState" class="empty-state hidden">
+            <span class="empty-icon">🔍</span>
+            <h2>No results found</h2>
+            <p>Try a different search term</p>
+        </div>
+    </main>
+
+    <!-- Slideshow Modal -->
+    <div id="slideshowModal" class="modal hidden" role="dialog" aria-modal="true" aria-label="Slideshow viewer">
+        <div class="modal-backdrop"></div>
+        <div class="modal-content">
+            <!-- Close Button -->
+            <button id="closeSlideshow" class="modal-close" aria-label="Close slideshow">
+                <span>×</span>
+            </button>
+
+            <!-- Navigation -->
+            <button id="prevSlide" class="nav-btn nav-prev" aria-label="Previous slide">
+                <span>‹</span>
+            </button>
+            <button id="nextSlide" class="nav-btn nav-next" aria-label="Next slide">
+                <span>›</span>
+            </button>
+
+            <!-- Media Container -->
+            <div class="slideshow-media">
+                <img id="slideshowImage" class="slideshow-img hidden" alt="Slideshow image">
+                <video id="slideshowVideo" class="slideshow-video hidden" controls>
+                    <source id="slideshowVideoSource" src="" type="video/mp4">
+                </video>
+            </div>
+
+            <!-- Info Panel -->
+            <div class="slideshow-info">
+                <div class="slideshow-counter">
+                    <span id="currentSlide">1</span> / <span id="totalSlides">0</span>
+                </div>
+                <div class="slideshow-words" id="slideshowWords"></div>
+                <div class="slideshow-controls">
+                    <button id="autoplayBtn" class="btn btn-small" aria-label="Toggle autoplay">
+                        <span id="autoplayIcon">▶</span>
+                        <span id="autoplayText">Auto</span>
+                    </button>
+                    <div class="speed-control">
+                        <label for="speedSelect">Speed:</label>
+                        <select id="speedSelect">
+                            <option value="2000">2s</option>
+                            <option value="3000" selected>3s</option>
+                            <option value="5000">5s</option>
+                            <option value="8000">8s</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>Made with 💜 • <span id="generatedDate">-</span></p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
