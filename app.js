@@ -224,6 +224,9 @@ function filterItems() {
             // Search in words array
             if (item.words && item.words.some(word => word.toLowerCase().includes(query))) return true;
 
+            // Search in synonyms array
+            if (item.synonyms && item.synonyms.some(syn => syn.toLowerCase().includes(query))) return true;
+
             return false;
         });
     }

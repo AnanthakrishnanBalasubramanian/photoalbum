@@ -16,8 +16,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "Vibrant",
+      "words": [
+        "Vibrant"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "lively",
+        "vivid",
+        "dynamic",
+        "energetic",
+        "colorful",
+        "bright"
+      ]
     },
     {
       "filename": "1757482343122~2.jpg",
@@ -33,6 +44,15 @@
       "extractedText": "ABUNDANCE",
       "words": [
         "ABUNDANCE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "plenty",
+        "wealth",
+        "prosperity",
+        "richness",
+        "profusion",
+        "excess"
       ]
     },
     {
@@ -46,8 +66,19 @@
         "width": 893,
         "height": 469
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "FLOURISH",
+      "words": [
+        "FLOURISH"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "thrive",
+        "prosper",
+        "bloom",
+        "succeed",
+        "grow",
+        "blossom"
+      ]
     },
     {
       "filename": "1757652480622.jpg",
@@ -60,8 +91,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "CHEERFUL",
+      "words": [
+        "CHEERFUL"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "happy",
+        "joyful",
+        "merry",
+        "upbeat",
+        "jolly",
+        "lighthearted"
+      ]
     },
     {
       "filename": "1757741114422.jpg",
@@ -74,9 +116,18 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "Happiness",
+      "extractedText": "JOYFUL",
       "words": [
-        "Happiness"
+        "JOYFUL"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "happy",
+        "delighted",
+        "elated",
+        "cheerful",
+        "merry",
+        "jubilant"
       ]
     },
     {
@@ -90,8 +141,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "INSPIRED",
+      "words": [
+        "INSPIRED"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "motivated",
+        "encouraged",
+        "moved",
+        "uplifted",
+        "stimulated",
+        "creative"
+      ]
     },
     {
       "filename": "1758000342430.jpg",
@@ -104,8 +166,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "JOY",
+      "words": [
+        "JOY"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "happiness",
+        "delight",
+        "bliss",
+        "pleasure",
+        "elation",
+        "gladness"
+      ]
     },
     {
       "filename": "1758000465704.jpg",
@@ -118,8 +191,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "JOY",
+      "words": [
+        "JOY"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "happiness",
+        "delight",
+        "bliss",
+        "pleasure",
+        "elation",
+        "gladness"
+      ]
     },
     {
       "filename": "1758089905240.jpg",
@@ -132,8 +216,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "KIND",
+      "words": [
+        "KIND"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "caring",
+        "compassionate",
+        "gentle",
+        "thoughtful",
+        "considerate",
+        "generous"
+      ]
     },
     {
       "filename": "1758168059987.jpg",
@@ -146,8 +241,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "EMPOWERED",
+      "words": [
+        "EMPOWERED"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "enabled",
+        "strengthened",
+        "authorized",
+        "confident",
+        "capable",
+        "liberated"
+      ]
     },
     {
       "filename": "1758263397825.jpg",
@@ -160,8 +266,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "SUPPORTIVE",
+      "words": [
+        "SUPPORTIVE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "helpful",
+        "encouraging",
+        "caring",
+        "nurturing",
+        "understanding",
+        "compassionate"
+      ]
     },
     {
       "filename": "1758360964143.jpg",
@@ -174,8 +291,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "KIND",
+      "words": [
+        "KIND"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "caring",
+        "compassionate",
+        "gentle",
+        "thoughtful",
+        "considerate",
+        "generous"
+      ]
     },
     {
       "filename": "1758374430985.jpg",
@@ -188,8 +316,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "CREATIVE",
+      "words": [
+        "CREATIVE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "imaginative",
+        "innovative",
+        "inventive",
+        "artistic",
+        "original",
+        "inspired"
+      ]
     },
     {
       "filename": "1758428101113.jpg",
@@ -202,8 +341,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GRATEFUL",
+      "words": [
+        "GRATEFUL"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "thankful",
+        "appreciative",
+        "blessed",
+        "indebted",
+        "obliged",
+        "content"
+      ]
     },
     {
       "filename": "1758517654476.jpg",
@@ -219,6 +369,15 @@
       "extractedText": "LIVELY",
       "words": [
         "LIVELY"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "energetic",
+        "animated",
+        "vivacious",
+        "spirited",
+        "active",
+        "vibrant"
       ]
     },
     {
@@ -235,6 +394,15 @@
       "extractedText": "MAGNIFICENT",
       "words": [
         "MAGNIFICENT"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "splendid",
+        "grand",
+        "majestic",
+        "glorious",
+        "superb",
+        "impressive"
       ]
     },
     {
@@ -251,6 +419,15 @@
       "extractedText": "THRIVE",
       "words": [
         "THRIVE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "flourish",
+        "prosper",
+        "bloom",
+        "succeed",
+        "grow",
+        "blossom"
       ]
     },
     {
@@ -267,6 +444,15 @@
       "extractedText": "JUBILANT",
       "words": [
         "JUBILANT"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "joyful",
+        "triumphant",
+        "elated",
+        "exultant",
+        "ecstatic",
+        "overjoyed"
       ]
     },
     {
@@ -280,8 +466,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "BLISSFUL",
+      "words": [
+        "BLISSFUL"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "happy",
+        "joyful",
+        "ecstatic",
+        "delighted",
+        "euphoric",
+        "serene"
+      ]
     },
     {
       "filename": "1758948136418.jpg",
@@ -297,6 +494,15 @@
       "extractedText": "BEAMING",
       "words": [
         "BEAMING"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "radiant",
+        "glowing",
+        "shining",
+        "bright",
+        "smiling",
+        "happy"
       ]
     },
     {
@@ -310,8 +516,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "BELIEF",
+      "words": [
+        "BELIEF"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "faith",
+        "trust",
+        "confidence",
+        "conviction",
+        "assurance",
+        "hope"
+      ]
     },
     {
       "filename": "1759120829972.jpg",
@@ -324,8 +541,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "RADIANT",
+      "words": [
+        "RADIANT"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "glowing",
+        "bright",
+        "shining",
+        "luminous",
+        "brilliant",
+        "beaming"
+      ]
     },
     {
       "filename": "1759211398393.jpg",
@@ -338,8 +566,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "HEARTENING",
+      "words": [
+        "HEARTENING"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "encouraging",
+        "uplifting",
+        "inspiring",
+        "comforting",
+        "reassuring",
+        "hopeful"
+      ]
     },
     {
       "filename": "1759314986913.jpg",
@@ -352,8 +591,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "RESILIENT",
+      "words": [
+        "RESILIENT"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "strong",
+        "tough",
+        "flexible",
+        "adaptable",
+        "hardy",
+        "durable"
+      ]
     },
     {
       "filename": "1759395760249.jpg",
@@ -369,6 +619,15 @@
       "extractedText": "PROSPEROUS",
       "words": [
         "PROSPEROUS"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "successful",
+        "thriving",
+        "flourishing",
+        "wealthy",
+        "affluent",
+        "booming"
       ]
     },
     {
@@ -385,6 +644,15 @@
       "extractedText": "ZEST",
       "words": [
         "ZEST"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "enthusiasm",
+        "energy",
+        "vigor",
+        "passion",
+        "gusto",
+        "excitement"
       ]
     },
     {
@@ -398,8 +666,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "DYNAMIC",
+      "words": [
+        "DYNAMIC"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "energetic",
+        "active",
+        "lively",
+        "vibrant",
+        "powerful",
+        "forceful"
+      ]
     },
     {
       "filename": "1759645735567.jpg",
@@ -415,6 +694,15 @@
       "extractedText": "GROWTH",
       "words": [
         "GROWTH"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "development",
+        "progress",
+        "expansion",
+        "improvement",
+        "evolution",
+        "advancement"
       ]
     },
     {
@@ -428,8 +716,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "UPBEAT",
+      "words": [
+        "UPBEAT"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "positive",
+        "cheerful",
+        "optimistic",
+        "lively",
+        "buoyant",
+        "happy"
+      ]
     },
     {
       "filename": "1759813860167.jpg",
@@ -442,9 +741,18 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "PROSE",
+      "extractedText": "PROSPEROUS",
       "words": [
-        "PROSE"
+        "PROSPEROUS"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "successful",
+        "thriving",
+        "flourishing",
+        "wealthy",
+        "affluent",
+        "booming"
       ]
     },
     {
@@ -461,6 +769,15 @@
       "extractedText": "SERENE",
       "words": [
         "SERENE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "calm",
+        "peaceful",
+        "tranquil",
+        "placid",
+        "composed",
+        "relaxed"
       ]
     },
     {
@@ -474,8 +791,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "SUCCESS",
+      "words": [
+        "SUCCESS"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "achievement",
+        "victory",
+        "accomplishment",
+        "triumph",
+        "prosperity",
+        "win"
+      ]
     },
     {
       "filename": "1760070670378.jpg",
@@ -488,15 +816,18 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "BLOOM BLOOM FD BLOW EVOLVE AND GROW EVOLVE FLOURISH THRIVE",
+      "extractedText": "BLOSSOM",
       "words": [
-        "BLOOM",
-        "BLOW",
-        "EVOLVE",
-        "AND",
-        "GROW",
-        "FLOURISH",
-        "THRIVE"
+        "BLOSSOM"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "bloom",
+        "flourish",
+        "flower",
+        "develop",
+        "grow",
+        "thrive"
       ]
     },
     {
@@ -513,6 +844,15 @@
       "extractedText": "GLOW",
       "words": [
         "GLOW"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "shine",
+        "radiance",
+        "warmth",
+        "light",
+        "luminescence",
+        "brilliance"
       ]
     },
     {
@@ -526,8 +866,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "RELENTLESS",
+      "words": [
+        "RELENTLESS"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "persistent",
+        "determined",
+        "unstoppable",
+        "tireless",
+        "unyielding",
+        "tenacious"
+      ]
     },
     {
       "filename": "1760340470539.jpg",
@@ -543,6 +894,15 @@
       "extractedText": "ABUNDANT",
       "words": [
         "ABUNDANT"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "plentiful",
+        "ample",
+        "copious",
+        "rich",
+        "lavish",
+        "bountiful"
       ]
     },
     {
@@ -559,6 +919,15 @@
       "extractedText": "STELLAR",
       "words": [
         "STELLAR"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "outstanding",
+        "exceptional",
+        "excellent",
+        "superb",
+        "brilliant",
+        "remarkable"
       ]
     },
     {
@@ -572,8 +941,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "EAGER",
+      "words": [
+        "EAGER"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "enthusiastic",
+        "keen",
+        "excited",
+        "willing",
+        "anxious",
+        "ready"
+      ]
     },
     {
       "filename": "1760592735247.jpg",
@@ -586,10 +966,18 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "GOAL ASPIRE",
+      "extractedText": "ASPIRE",
       "words": [
-        "GOAL",
         "ASPIRE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "aim",
+        "strive",
+        "hope",
+        "dream",
+        "desire",
+        "pursue"
       ]
     },
     {
@@ -603,8 +991,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "DYNAMIC",
+      "words": [
+        "DYNAMIC"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "energetic",
+        "active",
+        "lively",
+        "vibrant",
+        "powerful",
+        "forceful"
+      ]
     },
     {
       "filename": "1760678662139.jpg",
@@ -617,8 +1016,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "DYNAMIC",
+      "words": [
+        "DYNAMIC"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "energetic",
+        "active",
+        "lively",
+        "vibrant",
+        "powerful",
+        "forceful"
+      ]
     },
     {
       "filename": "1760772503381.jpg",
@@ -631,9 +1041,18 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "Spirited",
+      "extractedText": "SPIRITED",
       "words": [
-        "Spirited"
+        "SPIRITED"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "lively",
+        "energetic",
+        "animated",
+        "vibrant",
+        "enthusiastic",
+        "vivacious"
       ]
     },
     {
@@ -647,8 +1066,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "ENTHUSIASM",
+      "words": [
+        "ENTHUSIASM"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "excitement",
+        "eagerness",
+        "passion",
+        "zeal",
+        "fervor",
+        "keenness"
+      ]
     },
     {
       "filename": "1760946288398.jpg",
@@ -661,8 +1091,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "SUCCESS",
+      "words": [
+        "SUCCESS"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "achievement",
+        "victory",
+        "accomplishment",
+        "triumph",
+        "prosperity",
+        "win"
+      ]
     },
     {
       "filename": "1761022312477.jpg",
@@ -678,6 +1119,15 @@
       "extractedText": "VITAL",
       "words": [
         "VITAL"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "essential",
+        "crucial",
+        "important",
+        "necessary",
+        "energetic",
+        "lively"
       ]
     },
     {
@@ -691,8 +1141,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "ENTHUSIASTIC",
+      "words": [
+        "ENTHUSIASTIC"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "eager",
+        "excited",
+        "passionate",
+        "keen",
+        "zealous",
+        "fervent"
+      ]
     },
     {
       "filename": "1761194981204.jpg",
@@ -705,8 +1166,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "HOPE",
+      "words": [
+        "HOPE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "optimism",
+        "faith",
+        "expectation",
+        "aspiration",
+        "belief",
+        "confidence"
+      ]
     },
     {
       "filename": "1761283441686.jpg",
@@ -719,12 +1191,18 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "thrive thrive prosper bloom Success prosper success",
+      "extractedText": "FLOURISH",
       "words": [
+        "FLOURISH"
+      ],
+      "reviewed": true,
+      "synonyms": [
         "thrive",
         "prosper",
         "bloom",
-        "Success"
+        "succeed",
+        "grow",
+        "blossom"
       ]
     },
     {
@@ -738,8 +1216,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "ZEAL",
+      "words": [
+        "ZEAL"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "enthusiasm",
+        "passion",
+        "fervor",
+        "eagerness",
+        "dedication",
+        "ardor"
+      ]
     },
     {
       "filename": "1761543918983.jpg",
@@ -752,8 +1241,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "PROSPEROUS",
+      "words": [
+        "PROSPEROUS"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "successful",
+        "thriving",
+        "flourishing",
+        "wealthy",
+        "affluent",
+        "booming"
+      ]
     },
     {
       "filename": "1761764176842.jpg",
@@ -766,8 +1266,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "ACHIEVE",
+      "words": [
+        "ACHIEVE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "accomplish",
+        "attain",
+        "reach",
+        "complete",
+        "succeed",
+        "fulfill"
+      ]
     },
     {
       "filename": "1761797329127.jpg",
@@ -780,8 +1291,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "VITALITY",
+      "words": [
+        "VITALITY"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "energy",
+        "vigor",
+        "liveliness",
+        "strength",
+        "vivacity",
+        "dynamism"
+      ]
     },
     {
       "filename": "1761890154245.jpg",
@@ -794,8 +1316,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GIFTED",
+      "words": [
+        "GIFTED"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "talented",
+        "skilled",
+        "blessed",
+        "exceptional",
+        "brilliant",
+        "capable"
+      ]
     },
     {
       "filename": "1762017834531.jpg",
@@ -808,8 +1341,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "ENERGETIC",
+      "words": [
+        "ENERGETIC"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "lively",
+        "active",
+        "dynamic",
+        "vigorous",
+        "spirited",
+        "vibrant"
+      ]
     },
     {
       "filename": "1762069060537.jpg",
@@ -822,8 +1366,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "INSPIRE",
+      "words": [
+        "INSPIRE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "motivate",
+        "encourage",
+        "uplift",
+        "stimulate",
+        "move",
+        "influence"
+      ]
     },
     {
       "filename": "1762232219098.jpg",
@@ -836,8 +1391,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "REJUVENATE",
+      "words": [
+        "REJUVENATE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "refresh",
+        "revitalize",
+        "renew",
+        "restore",
+        "revive",
+        "regenerate"
+      ]
     },
     {
       "filename": "1762316694195.jpg",
@@ -850,8 +1416,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "SHINE",
+      "words": [
+        "SHINE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "glow",
+        "sparkle",
+        "radiate",
+        "gleam",
+        "glitter",
+        "beam"
+      ]
     },
     {
       "filename": "1762400736640.jpg",
@@ -867,6 +1444,15 @@
       "extractedText": "GRACE",
       "words": [
         "GRACE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "elegance",
+        "poise",
+        "beauty",
+        "charm",
+        "refinement",
+        "dignity"
       ]
     },
     {
@@ -880,8 +1466,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "PROWESS",
+      "words": [
+        "PROWESS"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "skill",
+        "expertise",
+        "ability",
+        "talent",
+        "mastery",
+        "competence"
+      ]
     },
     {
       "filename": "1762580301446.jpg",
@@ -894,8 +1491,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "LUMINOUS",
+      "words": [
+        "LUMINOUS"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "bright",
+        "glowing",
+        "radiant",
+        "shining",
+        "brilliant",
+        "gleaming"
+      ]
     },
     {
       "filename": "1762669836383.jpg",
@@ -908,8 +1516,18 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "APPRECIATION",
+      "words": [
+        "APPRECIATION"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "gratitude",
+        "thankfulness",
+        "recognition",
+        "acknowledgment",
+        "admiration"
+      ]
     },
     {
       "filename": "1762696472126.jpg",
@@ -922,8 +1540,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "FRESH",
+      "words": [
+        "FRESH"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "new",
+        "crisp",
+        "clean",
+        "renewed",
+        "invigorating",
+        "revitalized"
+      ]
     },
     {
       "filename": "1762696588319.jpg",
@@ -936,8 +1565,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "BRIGHT",
+      "words": [
+        "BRIGHT"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "brilliant",
+        "radiant",
+        "luminous",
+        "shining",
+        "glowing",
+        "vivid"
+      ]
     },
     {
       "filename": "1762696656730.jpg",
@@ -950,46 +1590,17 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "AFFIRMATIONS to Achieve can Beaming am Beaming #Dynamic am beaming achieve my with positivity with positivity am dynamic and and Abundant Belief am abundant in all have belief Energetic areas of life feel alive Blissful Blissful in an bright Dynamic feel deep feel for in content feel dynamic and today Eager Empowered create Aspire eager change aspire in be best self Blossom to learn learn grow growth strength goals myself positive",
+      "extractedText": "AFFIRMATIONS",
       "words": [
-        "AFFIRMATIONS",
-        "Achieve",
-        "can",
-        "Beaming",
-        "Dynamic",
-        "with",
-        "positivity",
-        "and",
-        "Abundant",
-        "Belief",
-        "all",
-        "have",
-        "Energetic",
-        "areas",
-        "life",
-        "feel",
-        "alive",
-        "Blissful",
-        "bright",
-        "deep",
-        "for",
-        "content",
-        "today",
-        "Eager",
-        "Empowered",
-        "create",
-        "Aspire",
-        "change",
-        "best",
-        "self",
-        "Blossom",
-        "learn",
-        "grow",
-        "growth",
-        "strength",
-        "goals",
-        "myself",
-        "positive"
+        "AFFIRMATIONS"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "declarations",
+        "assertions",
+        "statements",
+        "confirmations",
+        "mantras"
       ]
     },
     {
@@ -1003,8 +1614,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "BOUNTIFUL",
+      "words": [
+        "BOUNTIFUL"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "abundant",
+        "plentiful",
+        "generous",
+        "ample",
+        "copious",
+        "rich"
+      ]
     },
     {
       "filename": "1763096267609.jpg",
@@ -1017,8 +1639,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GROWTH",
+      "words": [
+        "GROWTH"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "development",
+        "progress",
+        "expansion",
+        "improvement",
+        "evolution",
+        "advancement"
+      ]
     },
     {
       "filename": "1763096294967.jpg",
@@ -1031,8 +1664,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GROWTH",
+      "words": [
+        "GROWTH"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "development",
+        "progress",
+        "expansion",
+        "improvement",
+        "evolution",
+        "advancement"
+      ]
     },
     {
       "filename": "1763178060185.jpg",
@@ -1048,6 +1692,15 @@
       "extractedText": "GENUINE",
       "words": [
         "GENUINE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "authentic",
+        "real",
+        "sincere",
+        "true",
+        "honest",
+        "original"
       ]
     },
     {
@@ -1061,8 +1714,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "SPARKLE",
+      "words": [
+        "SPARKLE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "shine",
+        "glitter",
+        "twinkle",
+        "gleam",
+        "shimmer",
+        "glisten"
+      ]
     },
     {
       "filename": "1763353402415.jpg",
@@ -1075,8 +1739,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "FORTUNATE",
+      "words": [
+        "FORTUNATE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "lucky",
+        "blessed",
+        "favored",
+        "successful",
+        "privileged",
+        "prosperous"
+      ]
     },
     {
       "filename": "1763441923498.jpg",
@@ -1089,8 +1764,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "PLEASED",
+      "words": [
+        "PLEASED"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "happy",
+        "satisfied",
+        "content",
+        "delighted",
+        "glad",
+        "gratified"
+      ]
     },
     {
       "filename": "1763525976015.jpg",
@@ -1103,8 +1789,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "BOLD",
+      "words": [
+        "BOLD"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "brave",
+        "courageous",
+        "daring",
+        "fearless",
+        "confident",
+        "audacious"
+      ]
     },
     {
       "filename": "1763611354165.jpg",
@@ -1117,8 +1814,19 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GOLDEN",
+      "words": [
+        "GOLDEN"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "precious",
+        "valuable",
+        "excellent",
+        "perfect",
+        "ideal",
+        "brilliant"
+      ]
     },
     {
       "filename": "1763709045452.jpg",
@@ -1131,8 +1839,19 @@
         "width": 2752,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "SOLID",
+      "words": [
+        "SOLID"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "strong",
+        "firm",
+        "stable",
+        "reliable",
+        "dependable",
+        "sturdy"
+      ]
     },
     {
       "filename": "1763792030931.jpg",
@@ -1145,8 +1864,19 @@
         "width": 2752,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "CLEAR",
+      "words": [
+        "CLEAR"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "transparent",
+        "lucid",
+        "obvious",
+        "distinct",
+        "pure",
+        "clean"
+      ]
     },
     {
       "filename": "1763959753250.jpg",
@@ -1159,8 +1889,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "SMOOTH",
+      "words": [
+        "SMOOTH"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "sleek",
+        "polished",
+        "even",
+        "effortless",
+        "flowing",
+        "seamless"
+      ]
     },
     {
       "filename": "1764134208054.jpg",
@@ -1173,8 +1914,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "Il",
-      "words": []
+      "extractedText": "FLOW",
+      "words": [
+        "FLOW"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "stream",
+        "movement",
+        "current",
+        "glide",
+        "rhythm",
+        "ease"
+      ]
     },
     {
       "filename": "1764218096630.jpg",
@@ -1187,8 +1939,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "PRIME",
+      "words": [
+        "PRIME"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "best",
+        "top",
+        "excellent",
+        "peak",
+        "optimal",
+        "superior"
+      ]
     },
     {
       "filename": "1764306869445.jpg",
@@ -1201,8 +1964,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "BOOST",
+      "words": [
+        "BOOST"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "increase",
+        "enhance",
+        "elevate",
+        "uplift",
+        "improve",
+        "strengthen"
+      ]
     },
     {
       "filename": "1764392476212.jpg",
@@ -1215,8 +1989,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "SOAR",
+      "words": [
+        "SOAR"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "fly",
+        "rise",
+        "ascend",
+        "climb",
+        "elevate",
+        "surge"
+      ]
     },
     {
       "filename": "1764392519147.jpg",
@@ -1230,7 +2015,8 @@
         "height": 1536
       },
       "extractedText": "",
-      "words": []
+      "words": [],
+      "synonyms": []
     },
     {
       "filename": "1764483207737.jpg",
@@ -1243,8 +2029,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GEM",
+      "words": [
+        "GEM"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "treasure",
+        "jewel",
+        "prize",
+        "wonder",
+        "pearl",
+        "beauty"
+      ]
     },
     {
       "filename": "1764483373161.jpg",
@@ -1257,8 +2054,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GEM",
+      "words": [
+        "GEM"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "treasure",
+        "jewel",
+        "prize",
+        "wonder",
+        "pearl",
+        "beauty"
+      ]
     },
     {
       "filename": "1764566486096.jpg",
@@ -1271,8 +2079,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "EPIC",
+      "words": [
+        "EPIC"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "legendary",
+        "grand",
+        "heroic",
+        "monumental",
+        "impressive",
+        "magnificent"
+      ]
     },
     {
       "filename": "1764566509368.jpg",
@@ -1285,8 +2104,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "EPIC",
+      "words": [
+        "EPIC"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "legendary",
+        "grand",
+        "heroic",
+        "monumental",
+        "impressive",
+        "magnificent"
+      ]
     },
     {
       "filename": "1764651441282.jpg",
@@ -1299,8 +2129,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "ACE",
+      "words": [
+        "ACE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "expert",
+        "champion",
+        "master",
+        "star",
+        "winner",
+        "top"
+      ]
     },
     {
       "filename": "1764732917833.jpg",
@@ -1313,8 +2154,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "PEAK",
+      "words": [
+        "PEAK"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "summit",
+        "top",
+        "pinnacle",
+        "apex",
+        "zenith",
+        "height"
+      ]
     },
     {
       "filename": "1764823328795.jpg",
@@ -1330,6 +2182,15 @@
       "extractedText": "SPARK",
       "words": [
         "SPARK"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "ignite",
+        "inspire",
+        "trigger",
+        "kindle",
+        "flash",
+        "glimmer"
       ]
     },
     {
@@ -1343,8 +2204,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "HARMONY",
+      "words": [
+        "HARMONY"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "balance",
+        "peace",
+        "unity",
+        "accord",
+        "serenity",
+        "coherence"
+      ]
     },
     {
       "filename": "1765000215798.jpg",
@@ -1357,8 +2229,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "VIVID",
+      "words": [
+        "VIVID"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "bright",
+        "vibrant",
+        "colorful",
+        "intense",
+        "striking",
+        "lively"
+      ]
     },
     {
       "filename": "1765081276390.jpg",
@@ -1371,8 +2254,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GLORY",
+      "words": [
+        "GLORY"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "honor",
+        "fame",
+        "triumph",
+        "splendor",
+        "magnificence",
+        "greatness"
+      ]
     },
     {
       "filename": "1765168965515.jpg",
@@ -1385,8 +2279,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "FLAIR",
+      "words": [
+        "FLAIR"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "style",
+        "talent",
+        "panache",
+        "elegance",
+        "skill",
+        "aptitude"
+      ]
     },
     {
       "filename": "1765257160979.jpg",
@@ -1399,8 +2304,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "VERVE",
+      "words": [
+        "VERVE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "energy",
+        "enthusiasm",
+        "vigor",
+        "vitality",
+        "spirit",
+        "zest"
+      ]
     },
     {
       "filename": "1765347287382.jpg",
@@ -1413,8 +2329,19 @@
         "width": 1408,
         "height": 768
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "MIGHTY",
+      "words": [
+        "MIGHTY"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "powerful",
+        "strong",
+        "forceful",
+        "potent",
+        "great",
+        "formidable"
+      ]
     },
     {
       "filename": "1765429407944.jpg",
@@ -1427,8 +2354,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "SHARP",
+      "words": [
+        "SHARP"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "keen",
+        "acute",
+        "smart",
+        "clever",
+        "quick",
+        "astute"
+      ]
     },
     {
       "filename": "1765519904164.jpg",
@@ -1441,8 +2379,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "MAGIC",
+      "words": [
+        "MAGIC"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "wonder",
+        "enchantment",
+        "miracle",
+        "marvel",
+        "sorcery",
+        "mystical"
+      ]
     },
     {
       "filename": "1765604016100.jpg",
@@ -1455,8 +2404,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "WILD",
+      "words": [
+        "WILD"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "free",
+        "untamed",
+        "adventurous",
+        "spirited",
+        "unrestrained",
+        "natural"
+      ]
     },
     {
       "filename": "1765681999804.jpg",
@@ -1469,8 +2429,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "BOLD",
+      "words": [
+        "BOLD"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "brave",
+        "courageous",
+        "daring",
+        "fearless",
+        "confident",
+        "audacious"
+      ]
     },
     {
       "filename": "1765772651814.jpg",
@@ -1483,8 +2454,19 @@
         "width": 1408,
         "height": 768
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "PURE",
+      "words": [
+        "PURE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "clean",
+        "genuine",
+        "authentic",
+        "untainted",
+        "pristine",
+        "innocent"
+      ]
     },
     {
       "filename": "1765858209291.jpg",
@@ -1497,8 +2479,19 @@
         "width": 1408,
         "height": 768
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "TRUE",
+      "words": [
+        "TRUE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "genuine",
+        "authentic",
+        "real",
+        "honest",
+        "sincere",
+        "faithful"
+      ]
     },
     {
       "filename": "1765937256862.jpg",
@@ -1511,8 +2504,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "BRAVE",
+      "words": [
+        "BRAVE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "courageous",
+        "bold",
+        "fearless",
+        "valiant",
+        "heroic",
+        "daring"
+      ]
     },
     {
       "filename": "1766118175424.jpg",
@@ -1525,8 +2529,18 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "FREE",
+      "words": [
+        "FREE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "liberated",
+        "independent",
+        "unrestricted",
+        "open",
+        "unbound"
+      ]
     },
     {
       "filename": "1766118205784.jpg",
@@ -1539,8 +2553,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "DREAM",
+      "words": [
+        "DREAM"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "vision",
+        "aspiration",
+        "goal",
+        "ambition",
+        "fantasy",
+        "hope"
+      ]
     },
     {
       "filename": "1766209463439.jpg",
@@ -1553,8 +2578,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "ALIVE",
+      "words": [
+        "ALIVE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "living",
+        "vibrant",
+        "animated",
+        "lively",
+        "energetic",
+        "vital"
+      ]
     },
     {
       "filename": "1766209618443.jpg",
@@ -1568,7 +2604,8 @@
         "height": 1536
       },
       "extractedText": "",
-      "words": []
+      "words": [],
+      "synonyms": []
     },
     {
       "filename": "1766298206889.jpg",
@@ -1581,8 +2618,19 @@
         "width": 512,
         "height": 217
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GRAND",
+      "words": [
+        "GRAND"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "magnificent",
+        "impressive",
+        "majestic",
+        "splendid",
+        "great",
+        "glorious"
+      ]
     },
     {
       "filename": "1766380291104.jpg",
@@ -1595,8 +2643,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "NOBLE",
+      "words": [
+        "NOBLE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "honorable",
+        "dignified",
+        "worthy",
+        "virtuous",
+        "admirable",
+        "respectable"
+      ]
     },
     {
       "filename": "1766474100049.jpg",
@@ -1612,6 +2671,15 @@
       "extractedText": "VALOR",
       "words": [
         "VALOR"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "bravery",
+        "courage",
+        "heroism",
+        "fearlessness",
+        "gallantry",
+        "boldness"
       ]
     },
     {
@@ -1625,8 +2693,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "VALOR",
+      "words": [
+        "VALOR"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "bravery",
+        "courage",
+        "heroism",
+        "fearlessness",
+        "gallantry",
+        "boldness"
+      ]
     },
     {
       "filename": "1766474115828.jpg",
@@ -1639,8 +2718,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "VALOR",
+      "words": [
+        "VALOR"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "bravery",
+        "courage",
+        "heroism",
+        "fearlessness",
+        "gallantry",
+        "boldness"
+      ]
     },
     {
       "filename": "1766570466825.jpg",
@@ -1653,8 +2743,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "ZENITH",
+      "words": [
+        "ZENITH"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "peak",
+        "pinnacle",
+        "apex",
+        "summit",
+        "height",
+        "climax"
+      ]
     },
     {
       "filename": "1766637310777.jpg",
@@ -1667,8 +2768,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "MIGHTY",
+      "words": [
+        "MIGHTY"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "powerful",
+        "strong",
+        "forceful",
+        "potent",
+        "great",
+        "formidable"
+      ]
     },
     {
       "filename": "1766719165421.jpg",
@@ -1681,8 +2793,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "WONDER",
+      "words": [
+        "WONDER"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "amazement",
+        "awe",
+        "marvel",
+        "miracle",
+        "fascination",
+        "astonishment"
+      ]
     },
     {
       "filename": "1766798940603.jpg",
@@ -1695,8 +2818,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "IGNITE",
+      "words": [
+        "IGNITE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "spark",
+        "kindle",
+        "inspire",
+        "fire",
+        "activate",
+        "energize"
+      ]
     },
     {
       "filename": "1766799175348.jpg",
@@ -1709,8 +2843,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "IGNITE",
+      "words": [
+        "IGNITE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "spark",
+        "kindle",
+        "inspire",
+        "fire",
+        "activate",
+        "energize"
+      ]
     },
     {
       "filename": "1766885899762.jpg",
@@ -1723,8 +2868,19 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "POISE",
+      "words": [
+        "POISE"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "composure",
+        "grace",
+        "balance",
+        "elegance",
+        "confidence",
+        "self-assurance"
+      ]
     },
     {
       "filename": "1766980231070.jpg",
@@ -1737,8 +2893,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "FOCUS",
+      "words": [
+        "FOCUS"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "concentrate",
+        "attention",
+        "clarity",
+        "determination",
+        "direction",
+        "aim"
+      ]
     },
     {
       "filename": "1767065607804.jpg",
@@ -1751,8 +2918,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GRIT",
+      "words": [
+        "GRIT"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "determination",
+        "perseverance",
+        "resilience",
+        "courage",
+        "tenacity",
+        "resolve"
+      ]
     },
     {
       "filename": "1767065621946.jpg",
@@ -1765,8 +2943,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GRIT",
+      "words": [
+        "GRIT"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "determination",
+        "perseverance",
+        "resilience",
+        "courage",
+        "tenacity",
+        "resolve"
+      ]
     },
     {
       "filename": "1767153441747.png",
@@ -1779,8 +2968,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "QUEST",
+      "words": [
+        "QUEST"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "journey",
+        "pursuit",
+        "search",
+        "adventure",
+        "mission",
+        "expedition"
+      ]
     },
     {
       "filename": "1767153446606.png",
@@ -1793,8 +2993,19 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "QUEST",
+      "words": [
+        "QUEST"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "journey",
+        "pursuit",
+        "search",
+        "adventure",
+        "mission",
+        "expedition"
+      ]
     },
     {
       "filename": "20251004_140409-ANIMATION.gif",
@@ -1807,8 +3018,43 @@
         "width": 1496,
         "height": 1496
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "RADIANT HEARTNEING PROSPEROUS ZEST RESILENCY",
+      "words": [
+        "RADIANT",
+        "HEARTNEING",
+        "PROSPEROUS",
+        "ZEST",
+        "RESILENCY"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "glowing",
+        "bright",
+        "shining",
+        "luminous",
+        "brilliant",
+        "beaming",
+        "heartening",
+        "encouraging",
+        "uplifting",
+        "inspiring",
+        "successful",
+        "thriving",
+        "flourishing",
+        "wealthy",
+        "affluent",
+        "booming",
+        "enthusiasm",
+        "energy",
+        "vigor",
+        "passion",
+        "gusto",
+        "excitement",
+        "resilience",
+        "strength",
+        "toughness",
+        "adaptability"
+      ]
     },
     {
       "filename": "6e0cbef5-cc90-41f2-bf83-ce2b1f29c5a2.jpg",
@@ -1821,9 +3067,18 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "Uplifting",
+      "extractedText": "UPLIFTING",
       "words": [
-        "Uplifting"
+        "UPLIFTING"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "inspiring",
+        "encouraging",
+        "heartening",
+        "elevating",
+        "moving",
+        "motivating"
       ]
     },
     {
@@ -1837,8 +3092,19 @@
         "width": 512,
         "height": 512
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "OPTIMISTIC",
+      "words": [
+        "OPTIMISTIC"
+      ],
+      "reviewed": true,
+      "synonyms": [
+        "hopeful",
+        "positive",
+        "confident",
+        "upbeat",
+        "cheerful",
+        "sanguine"
+      ]
     }
   ]
 }
