@@ -30,9 +30,10 @@
         "width": 896,
         "height": 626
       },
-      "extractedText": "ABUNDANCE",
+      "extractedText": "ABUNDANCE #POSITIVEVOCAB",
       "words": [
-        "ABUNDANCE"
+        "ABUNDANCE",
+        "POSITIVEVOCAB"
       ]
     },
     {
@@ -46,8 +47,10 @@
         "width": 893,
         "height": 469
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "#POSITIVEVOCAB",
+      "words": [
+        "POSITIVEVOCAB"
+      ]
     },
     {
       "filename": "1757652480622.jpg",
@@ -74,7 +77,7 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "Happiness",
+      "extractedText": "Happiness [",
       "words": [
         "Happiness"
       ]
@@ -90,8 +93,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "[NNSPREB 6",
+      "words": [
+        "NNSPREB"
+      ]
     },
     {
       "filename": "1758000342430.jpg",
@@ -146,8 +151,12 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "AIVTMIOE Exp eRd",
+      "words": [
+        "AIVTMIOE",
+        "Exp",
+        "eRd"
+      ]
     },
     {
       "filename": "1758263397825.jpg",
@@ -160,7 +169,7 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
+      "extractedText": "'T",
       "words": []
     },
     {
@@ -188,8 +197,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "REAT",
+      "words": [
+        "REAT"
+      ]
     },
     {
       "filename": "1758428101113.jpg",
@@ -398,7 +409,7 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
+      "extractedText": "1 N",
       "words": []
     },
     {
@@ -412,9 +423,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "GROWTH",
+      "extractedText": "GROWTH Ghflodtto",
       "words": [
-        "GROWTH"
+        "GROWTH",
+        "Ghflodtto"
       ]
     },
     {
@@ -428,8 +440,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "EpBeat",
+      "words": [
+        "EpBeat"
+      ]
     },
     {
       "filename": "1759813860167.jpg",
@@ -442,9 +456,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "PROSE",
+      "extractedText": "PROSE EROUS",
       "words": [
-        "PROSE"
+        "PROSE",
+        "EROUS"
       ]
     },
     {
@@ -474,8 +489,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "SUCCES",
+      "words": [
+        "SUCCES"
+      ]
     },
     {
       "filename": "1760070670378.jpg",
@@ -488,15 +505,56 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "BLOOM BLOOM FD BLOW EVOLVE AND GROW EVOLVE FLOURISH THRIVE",
+      "extractedText": "DEWARRY BLOOM HONERED BLOOM RLNEF FD MOWJAND EVELQ p W FRCENCED MCRANCE NBOTNIS AJIOANCE PEROW WIROHO6Y ADATURE BLOW EVOLVE 8 MATANCE AND PROSENCES EVOLLED ADVGANCE ERCNONACE MRISE RINSH MOCS GROW SFCRRB EVOLVE BEOSS 1 BUKCENEN INTICUDEED BURGUD FSRSAYC TTY EXTIVED FRL SURET PROSRCN FLOURISH THRIVE AMOMON MENICE OITEi MEDLEYS PROSPERD SLXGEND MEGASS EBRIFONCTEAIS RASS 2 DOMERCE TfIUISB",
       "words": [
+        "DEWARRY",
         "BLOOM",
+        "HONERED",
+        "RLNEF",
+        "MOWJAND",
+        "EVELQ",
+        "FRCENCED",
+        "MCRANCE",
+        "NBOTNIS",
+        "AJIOANCE",
+        "PEROW",
+        "ADATURE",
         "BLOW",
         "EVOLVE",
+        "MATANCE",
         "AND",
+        "PROSENCES",
+        "EVOLLED",
+        "ADVGANCE",
+        "ERCNONACE",
+        "MRISE",
+        "RINSH",
+        "MOCS",
         "GROW",
+        "SFCRRB",
+        "BEOSS",
+        "BUKCENEN",
+        "INTICUDEED",
+        "BURGUD",
+        "FSRSAYC",
+        "TTY",
+        "EXTIVED",
+        "FRL",
+        "SURET",
+        "PROSRCN",
         "FLOURISH",
-        "THRIVE"
+        "THRIVE",
+        "AMOMON",
+        "MENICE",
+        "OITEi",
+        "MEDLEYS",
+        "PROSPERD",
+        "SLXGEND",
+        "MEGASS",
+        "EBRIFONCTEAIS",
+        "RASS",
+        "DOMERCE",
+        "TfIUISB"
       ]
     },
     {
@@ -586,9 +644,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "GOAL ASPIRE",
+      "extractedText": "GOAL ACHIEVEDI ASPIRE",
       "words": [
         "GOAL",
+        "ACHIEVEDI",
         "ASPIRE"
       ]
     },
@@ -647,8 +706,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "MMJIHLSISA",
+      "words": [
+        "MMJIHLSISA"
+      ]
     },
     {
       "filename": "1760946288398.jpg",
@@ -691,8 +752,11 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "VESI YESI",
+      "words": [
+        "VESI",
+        "YESI"
+      ]
     },
     {
       "filename": "1761194981204.jpg",
@@ -719,12 +783,14 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "thrive thrive prosper bloom Success prosper success",
+      "extractedText": "thrive thrive prosper sstvong bloom Success prosper success VitaUty",
       "words": [
         "thrive",
         "prosper",
+        "sstvong",
         "bloom",
-        "Success"
+        "Success",
+        "VitaUty"
       ]
     },
     {
@@ -738,8 +804,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "ZEA",
+      "words": [
+        "ZEA"
+      ]
     },
     {
       "filename": "1761543918983.jpg",
@@ -780,8 +848,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "UTALITY",
+      "words": [
+        "UTALITY"
+      ]
     },
     {
       "filename": "1761890154245.jpg",
@@ -794,8 +864,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "GIFIEd",
+      "words": [
+        "GIFIEd"
+      ]
     },
     {
       "filename": "1762017834531.jpg",
@@ -822,8 +894,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "LNSPIRE",
+      "words": [
+        "LNSPIRE"
+      ]
     },
     {
       "filename": "1762232219098.jpg",
@@ -850,7 +924,7 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
+      "extractedText": "NE",
       "words": []
     },
     {
@@ -880,8 +954,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "BROWESS",
+      "words": [
+        "BROWESS"
+      ]
     },
     {
       "filename": "1762580301446.jpg",
@@ -908,8 +984,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "AppreciatOn",
+      "words": [
+        "AppreciatOn"
+      ]
     },
     {
       "filename": "1762696472126.jpg",
@@ -922,8 +1000,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "FRESHHT",
+      "words": [
+        "FRESHHT"
+      ]
     },
     {
       "filename": "1762696588319.jpg",
@@ -936,8 +1016,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "arightt",
+      "words": [
+        "arightt"
+      ]
     },
     {
       "filename": "1762696656730.jpg",
@@ -950,7 +1032,7 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "AFFIRMATIONS to Achieve can Beaming am Beaming #Dynamic am beaming achieve my with positivity with positivity am dynamic and and Abundant Belief am abundant in all have belief Energetic areas of life feel alive Blissful Blissful in an bright Dynamic feel deep feel for in content feel dynamic and today Eager Empowered create Aspire eager change aspire in be best self Blossom to learn learn grow growth strength goals myself positive",
+      "extractedText": "AFFIRMATIONS: a to D A 03 Achieve: E can Beaming am Beaming g #Dynamic am beaming achieve my with positivity: with positivity: am dynamic and and aaptable: Abundant: Belief am abundant in all have belief Energetic areas of life. feel energtic alive vitabillity Blissful Blissful Apprecation: in an bright. Dynamic feel deep apprecation feel blisiful for in content. feel dynamic and today: Eager Empowered create Aspire lam eager change. aspire in be best self. Blossom: to learn learn tor grow: growth strength goals. myself. positive =",
       "words": [
         "AFFIRMATIONS",
         "Achieve",
@@ -960,6 +1042,7 @@
         "with",
         "positivity",
         "and",
+        "aaptable",
         "Abundant",
         "Belief",
         "all",
@@ -968,10 +1051,14 @@
         "areas",
         "life",
         "feel",
+        "energtic",
         "alive",
+        "vitabillity",
         "Blissful",
+        "Apprecation",
         "bright",
         "deep",
+        "blisiful",
         "for",
         "content",
         "today",
@@ -979,11 +1066,13 @@
         "Empowered",
         "create",
         "Aspire",
+        "lam",
         "change",
         "best",
         "self",
         "Blossom",
         "learn",
+        "tor",
         "grow",
         "growth",
         "strength",
@@ -1061,8 +1150,10 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "SPARRE",
+      "words": [
+        "SPARRE"
+      ]
     },
     {
       "filename": "1763353402415.jpg",
@@ -1145,8 +1236,12 @@
         "width": 2752,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "LOli0 CDJIO CCidd cozic",
+      "words": [
+        "CDJIO",
+        "CCidd",
+        "cozic"
+      ]
     },
     {
       "filename": "1763959753250.jpg",
@@ -1173,8 +1268,11 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "Il",
-      "words": []
+      "extractedText": "U 70 01 T0 101 110 C 011 01 10 101 Il 100111 01 10\" 401 T0 Jo101 00 101010J10 1011 1010111111101 0 1100 101 11 I00 000 00 1110 1010 16011 100 01100 110 100 1100 10 10 010 10 11 0 01 011 IQI0V DNe J101 101 11011 '7001, 111U 1000 11 101 101110 0110011 1010 00n ttoto 1011710 71001/ 0101 \"1011011 0T01 '1010111 01010 0001 1 0 1 01 101 101*01 101 10110 N1001 410100 D0 1110 1001001 0110101 11/1J0114 10010 0T0 101 4001 0101 1000011 0'1 110/0 0 10110 1 10,10 0101 01 151/ '10011 011' 011910 11601 '101111 0111114 101101 1111 810 0 1100 011101110 11 01 10 11 00 1 178 @0' 011113 110010 11107100: i001 101011 Ti010 01110 10 001011 1010 1011 0110 010 110 1011010 '010101 100 1010 01000 10101 01010 010 V1",
+      "words": [
+        "DNe",
+        "ttoto"
+      ]
     },
     {
       "filename": "1764218096630.jpg",
@@ -1229,8 +1327,10 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "JOAR",
+      "words": [
+        "JOAR"
+      ]
     },
     {
       "filename": "1764483207737.jpg",
@@ -1271,8 +1371,10 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "pic",
+      "words": [
+        "pic"
+      ]
     },
     {
       "filename": "1764566509368.jpg",
@@ -1371,7 +1473,7 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
+      "extractedText": "JL(",
       "words": []
     },
     {
@@ -1413,7 +1515,7 @@
         "width": 1408,
         "height": 768
       },
-      "extractedText": "",
+      "extractedText": "W",
       "words": []
     },
     {
@@ -1441,7 +1543,7 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
+      "extractedText": "5",
       "words": []
     },
     {
@@ -1469,7 +1571,7 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
+      "extractedText": "0",
       "words": []
     },
     {
@@ -1497,8 +1599,10 @@
         "width": 1408,
         "height": 768
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "RUE",
+      "words": [
+        "RUE"
+      ]
     },
     {
       "filename": "1765937256862.jpg",
@@ -1539,7 +1643,7 @@
         "width": 2816,
         "height": 1536
       },
-      "extractedText": "",
+      "extractedText": "3",
       "words": []
     },
     {
@@ -1595,8 +1699,10 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "INOBL",
+      "words": [
+        "INOBL"
+      ]
     },
     {
       "filename": "1766474100049.jpg",
@@ -1653,8 +1759,10 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "'ZEnih",
+      "words": [
+        "ZEnih"
+      ]
     },
     {
       "filename": "1766637310777.jpg",
@@ -1681,8 +1789,10 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "MIONDA",
+      "words": [
+        "MIONDA"
+      ]
     },
     {
       "filename": "1766798940603.jpg",
@@ -1737,8 +1847,10 @@
         "width": 512,
         "height": 279
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "OCUS",
+      "words": [
+        "OCUS"
+      ]
     },
     {
       "filename": "1767065607804.jpg",
@@ -1821,8 +1933,9 @@
         "width": 1024,
         "height": 1024
       },
-      "extractedText": "Uplifting",
+      "extractedText": "#positivevocab Uplifting",
       "words": [
+        "positivevocab",
         "Uplifting"
       ]
     },
@@ -1837,8 +1950,10 @@
         "width": 512,
         "height": 512
       },
-      "extractedText": "",
-      "words": []
+      "extractedText": "@PMSTC",
+      "words": [
+        "PMSTC"
+      ]
     }
   ]
 }
